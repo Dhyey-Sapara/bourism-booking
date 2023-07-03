@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  company_name: MyString
+  description: MyText
+  founded_on: 2023-06-30
+  trusted_by: MyString
+
+two:
+  company_name: MyString
+  description: MyText
+  founded_on: 2023-06-30
+  trusted_by: MyString

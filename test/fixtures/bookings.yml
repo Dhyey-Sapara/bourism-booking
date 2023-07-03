@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  no_of_traveller: 1
+  package: one
+  user: one
+  traveller: one
+  car: one
+
+two:
+  no_of_traveller: 1
+  package: two
+  user: two
+  traveller: two
+  car: two

@@ -84,6 +84,7 @@ ActiveRecord::Schema[7.0].define(version: 2023_06_30_105059) do
     t.string "name"
     t.integer "person_limit"
     t.float "price"
+    t.string "license_plate"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
   end

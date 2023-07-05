@@ -5,6 +5,7 @@ class CreateCars < ActiveRecord::Migration[7.0]
       t.string :name
       t.integer :person_limit
       t.float :price
+      t.string :license_plate
 
       t.timestamps
     end

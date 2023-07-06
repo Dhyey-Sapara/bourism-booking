@@ -1,0 +1,21 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  star: 1
+  rooms_available: 1
+  booked_dates: 2023-06-30
+  ammeditites: MyString
+  email: MyString
+  phone_number: 
+  city: one
+
+two:
+  name: MyString
+  star: 1
+  rooms_available: 1
+  booked_dates: 2023-06-30
+  ammeditites: MyString
+  email: MyString
+  phone_number: 
+  city: two

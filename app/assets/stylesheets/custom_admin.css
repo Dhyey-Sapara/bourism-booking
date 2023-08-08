@@ -1,0 +1,38 @@
+*{
+  margin: 0;
+  padding: 0;
+  text-shadow: none !important;
+}
+
+a, button {
+  border-radius: 5px !important;
+  text-decoration: none !important;
+}
+
+h1.site_title > a {
+  font-size: 1.5rem !important;
+  color: #ffffff !important;
+}
+
+.tabs a{
+  font-size: 1.25em !important;
+  color: whitesmoke !important;
+}
+
+.tabs a:hover{
+  background-color: #3168a7 !important;
+}
+
+#logout a:hover{
+  background-color: rgba(255, 8, 0, 0.726) !important;
+}
+
+.index_table {
+  background-color: #ffffff;
+  color: black;
+  border: 1px solid black !important;
+}
+
+#footer {
+  text-align: center
+}
